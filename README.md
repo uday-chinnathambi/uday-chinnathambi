@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @jcm4uday
-- 👀 I’m interested in embedded systems, cybersecurity, cars, and electronics
-- 🌱 I’m currently learning how computer works. From OS to applications. Learning how lower level device drivers work.
-- 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me www.linkedin.com/in/uday-chinnathambi-7310a224
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The human brain is so complex, just like mine! It’s always buzzing with information, like a computer that never shuts down. But hey, even a supercomputer needs a break, and that’s why I love holidays
+# Uday Chinnathambi - Embedded Software Engineer
 
-<!---
-jcm4uday/jcm4uday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build software for safety critical embedded products.
+
+Available for freelance projects worldwide at  
+udaysoundar@hotmail.com
+
+---
+
+## What I've built
+
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| UdsFlashDownloader | Flash Application using UDS/CAN messages | Python . UdsOnCan . Tkinter . Cli |
+| [Vehicle Dynamics Monitor](https://github.com/uday-chinnathambi/vehicle-dynamics-monitor) | Temperature monitoring with RTOS and alerts | C · STM32 · MISRA |
+
+
+---
+
+## Tools
+
+| Area | Tools |
+|------|------|
+| Languages | C, Python |
+| Scripting | Powershell|
+| Processors | ARM Cortex-M, STM32, Infineon, Raspberry Pi |
+| Interfaces | CAN, SPI, I2C, UART |
+| Debug | JTAG/SWD, JTAG/DAP |
+| Build | CMake, Make, cross-compilation (GCC) |
+| DevOps | Azure DevOps |
+| Quality | Polyspace, VectorCast |
+| Standards | ISO 14229, ISO 26262, MISRA-C |
