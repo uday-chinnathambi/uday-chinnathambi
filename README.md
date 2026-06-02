@@ -1,6 +1,8 @@
 # Uday Chinnathambi - Embedded Software Engineer
 
-I build software for safety critical embedded products.
+I build software and test infrastructure for safety critical embedded products.
+
+Currently workin on Vechicle dynamics monitor that keeps track of events harsh braking, rapid acceleration, and aggressive cornering.
 
 Available for freelance projects worldwide at  
 udaysoundar@hotmail.com
