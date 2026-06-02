@@ -12,7 +12,7 @@ udaysoundar@hotmail.com
 | Project | What it does | Stack |
 |--------|-------------|-------|
 | UdsFlashDownloader | Flash Application using UDS/CAN messages | Python . UdsOnCan . Tkinter . Cli |
-| [Vehicle Dynamics Monitor](https://github.com/uday-chinnathambi/vehicle-dynamics-monitor) | Temperature monitoring with RTOS and alerts | C · STM32 · MISRA |
+| [Vehicle Dynamics Monitor](https://github.com/uday-chinnathambi/vehicle-dynamics-monitor) | Monitor vehicle dynamics events such as harsh braking, rapid acceleration, and aggressive cornering | C · STM32 · MISRA |
 
 
 ---
