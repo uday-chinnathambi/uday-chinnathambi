@@ -27,7 +27,7 @@ udaysoundar@hotmail.com
 | Scripting | Powershell|
 | Processors | ARM Cortex-M, STM32, Infineon, Raspberry Pi |
 | Interfaces | CAN, SPI, I2C, UART |
-| Debug | JTAG/SWD, JTAG/DAP |
+| Debug | GDB, OpenOCD, JTAG/SWD, JTAG/DAP |
 | Build | CMake, Make, cross-compilation (GCC) |
 | DevOps | Azure DevOps |
 | Quality | Polyspace, VectorCast |
